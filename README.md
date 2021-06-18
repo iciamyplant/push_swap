@@ -1,10 +1,15 @@
 # push_swap
 
 ./push_swap 1 7 2 ..
+
 Objectif : premier paramètre au sommet de la pile
+
 → trier la pile pour que le plus petit nombre soit en haut de la pile et le plus grand en bas
+
 → si aucun paramètre push swap termine direct et affiche rien
+
 → paramètre peut être un nombre arbitraire d’entiers positifs ou négatifs, sans doublons
+
 → En cas d’erreur, vous devez afficher Error suivi d’un ’\n’ sur la sortie d’erreur (Par exemple si certains paramètres ne sont pas des nombres, certains paramètres
 ne tiennent pas dans un int, ou encore s’il y a des doublons.)
 
